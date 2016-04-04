@@ -1,0 +1,26 @@
+{
+  "name": "react-coral-ui",
+  "version": "0.0.1",
+  "description": "React-CoralUI is a library of front-end components with the look-and-feel of Adobe CoralUI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_ENV=test mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/adz/react-coral-ui.git"
+  },
+  "keywords": [
+    "react",
+    "coralui",
+    "coral",
+    "adobe",
+    "components"
+  ],
+  "author": "Adam Davies",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adz/react-coral-ui/issues"
+  },
+  "homepage": "https://github.com/adz/react-coral-ui#readme"
+}
